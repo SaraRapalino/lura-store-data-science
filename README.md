@@ -11,8 +11,8 @@ Este proyecto analiza los datos de ventas de cuatro tiendas con el objetivo de r
 - GitHub
 
 ## 📂 Estructura
-- data/: Archivos CSV
-- notebooks/: Notebook de análisis
+- base-de-datos-challenge1-latam
+- AluraStoreLatam.ipynb
 - README.md
 
 ## ▶️ Ejecución
