@@ -1,7 +1,7 @@
 # 📊 Alura Store – Data Science Project
 
 ## 📌 Descripción
-Este proyecto analiza los datos de ventas de cuatro tiendas con el objetivo de recomendar la mejor opción para que el Sr. João venda sus productos.
+Este proyecto analiza los datos de ventas de cuatro tiendas con el objetivo de recomendar la mejor opción para que el Sr. Juan venda sus productos.
 
 ## 🛠️ Tecnologías
 - Python
